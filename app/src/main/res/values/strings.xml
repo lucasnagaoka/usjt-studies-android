@@ -28,6 +28,8 @@
     <string name="on_view_created">onViewCreated</string>
     <string name="on_resume">onResume</string>
     <string name="activity_a">Atividade A</string>
+    <string name="activity_b">Atividade B</string>
+    <string name="activity_c">Atividade C</string>
     <string name="start_a">Iniciar A</string>
     <string name="start_b">Iniciar B</string>
     <string name="start_c">Iniciar C</string>
