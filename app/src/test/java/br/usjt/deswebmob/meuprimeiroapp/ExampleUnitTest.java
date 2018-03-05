@@ -1,4 +1,4 @@
-package br.usjt.ftce.devmob.meuolamundo;
+package br.usjt.deswebmob.meuprimeiroapp;
 
 import org.junit.Test;
 

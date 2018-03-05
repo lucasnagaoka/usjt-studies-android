@@ -1,4 +1,4 @@
-package br.usjt.ftce.devmob.meuolamundo;
+package br.usjt.deswebmob.meuprimeiroapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
 import static org.junit.Assert.*;
 
 /**
- * Instrumentation test, which will execute on an Android device.
+ * Instrumented test, which will execute on an Android device.
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("br.usjt.ftce.devmob.meuolamundo", appContext.getPackageName());
+        assertEquals("br.usjt.deswebmob.meuprimeiroapp", appContext.getPackageName());
     }
 }
