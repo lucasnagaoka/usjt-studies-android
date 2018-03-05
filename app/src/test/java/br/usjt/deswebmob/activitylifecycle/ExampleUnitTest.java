@@ -1,4 +1,4 @@
-package br.usjt.deswebmob.meuprimeiroapp;
+package br.usjt.deswebmob.activitylifecycle;
 
 import org.junit.Test;
 

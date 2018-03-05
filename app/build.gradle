@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "br.usjt.deswebmob.meuprimeiroapp"
+        applicationId "br.usjt.deswebmob.activitylifecycle"
         minSdkVersion 22
         targetSdkVersion 26
         versionCode 1
