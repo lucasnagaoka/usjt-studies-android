@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.arqdsis.helloworldcomfragmentsccp3anmca.MainActivity">
+
+    <!--<fragment-->
+        <!--android:id="@+id/helloWorldFragment"-->
+        <!--class="com.example.arqdsis.helloworldcomfragmentsccp3anmca.HelloWorldFragment"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--tools:layout="@layout/fragment_hello_world"></fragment>-->
+
+</LinearLayout>
