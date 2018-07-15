@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Classe 7 - MVP</string>
+    <string name="btn_busca">Liste</string>
+    <string name="lblContinente">"Continent: "</string>
+    <string name="lbl_regiao">"Région: "</string>
+    <string name="lbl_subregiao">"Sous-région: "</string>
+    <string name="lbl_demonimo">"Dénomination: "</string>
+    <string name="lbl_populacao">"Population: "</string>
+    <string name="lbl_area">"Zone: "</string>
+    <string name="msg_rede">Réseau inactif. Utilisation du stockage local.</string>
+    <string name="lbl_codigo3">"Code alpha 3: "</string>
+</resources>

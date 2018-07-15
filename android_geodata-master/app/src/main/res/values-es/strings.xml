@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clase 7 - MVP</string>
+    <string name="btn_busca">Lista</string>
+    <string name="lbl_regiao">"Región: "</string>
+    <string name="lbl_subregiao">"Subregión: "</string>
+    <string name="lbl_populacao">"Población: "</string>
+    <string name="lbl_latitude">"Latitud: "</string>
+    <string name="lbl_longitude">"Longitud: "</string>
+    <string name="msg_rede">Conexión inactiva. Uso de almacenamiento local.</string>
+</resources>

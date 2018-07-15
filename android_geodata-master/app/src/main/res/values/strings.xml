@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Aula 8 - MVP</string>
+    <string name="btn_busca">Listar</string>
+    <string name="lblContinente">Continente: </string>
+    <string-array name="continentes">
+        <item>Todos</item>
+        <item>África</item>
+        <item>Américas</item>
+        <item>Ásia</item>
+        <item>Europa</item>
+        <item>Oceania</item>
+    </string-array>
+    <string name="url_default">https://restcountries.eu/rest/v2/</string>
+    <string name="url_all">https://restcountries.eu/rest/v2/all</string>
+    <string name="url_name">https://restcountries.eu/rest/v2/name/</string>
+
+    <string name="lbl_nome">Nome: </string>
+    <string name="lbl_codigo3">Código Alfa 3:</string>
+    <string name="lbl_capital">Capital: </string>
+    <string name="lbl_regiao">Região: </string>
+    <string name="lbl_subregiao">Subregião: </string>
+    <string name="lbl_demonimo">Demônimo: </string>
+    <string name="lbl_populacao">População: </string>
+    <string name="lbl_area">Área: </string>
+    <string name="lbl_bandeira">Bandeira: </string>
+    <string name="lbl_gini">Gini: </string>
+    <string name="lbl_idiomas">Idiomas: </string>
+    <string name="lbl_moedas">Moedas: </string>
+    <string name="lbl_domínios">Domínios: </string>
+    <string name="lbl_fusos">Fusos: </string>
+    <string name="lbl_fronteiras">Fronteiras: </string>
+    <string name="lbl_latitude">Latitude: </string>
+    <string name="lbl_longitude">Longitude: </string>
+    <string name="msg_rede">"Rede inativa. Usando armazenamento local."</string>
+
+</resources>
